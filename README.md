@@ -1,4 +1,6 @@
-# Homework-Challenge-Wk1-Due-12.14.23
+# homework-challenge-wk1
+
+**taken from homework assignment, I did NOT write this**
 
 # Full-Stack Course Overview
 
