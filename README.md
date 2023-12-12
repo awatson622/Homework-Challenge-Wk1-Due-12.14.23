@@ -1,36 +1,14 @@
 # homework-challenge-wk1
 
-**taken from homework assignment, I did NOT write this**
+Homework challenge for week 1
 
-## User Story
+## Usage
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+Provides updated code to submit as my homework project. 
 
-## Acceptance Criteria
+## Contributing
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+The code came from my homework project. It was modified and partially added to, but mostly 
+from my homework project.
 
 
-
-
-
-
-
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
